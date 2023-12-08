@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hinau\\source\\repos\\A22-SecuriteApplicative\\Securite\\A22-SecuritéApplicative-TP2\\src\\Sec.Market.MVC\\Sec.Market.MVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hinau\\source\\repos\\A22-SecuriteApplicative\\Securite\\A22-SecuritéApplicative-TP2\\src\\Sec.Market.MVC\\Sec.Market.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hinau\\source\\repos\\A22-SecuriteApplicative\\Securite\\A22-SecuritéApplicative-TP2\\src\\Sec.Market.MVC\\Sec.Market.MVC.csproj",
+        "projectName": "Sec.Market.MVC",
+        "projectPath": "C:\\Users\\hinau\\source\\repos\\A22-SecuriteApplicative\\Securite\\A22-SecuritéApplicative-TP2\\src\\Sec.Market.MVC\\Sec.Market.MVC.csproj",
+        "packagesPath": "C:\\Users\\hinau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hinau\\source\\repos\\A22-SecuriteApplicative\\Securite\\A22-SecuritéApplicative-TP2\\src\\Sec.Market.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hinau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
