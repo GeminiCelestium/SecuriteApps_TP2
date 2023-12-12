@@ -9,89 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sec.Market.MVC
 build_property.RootNamespace = Sec.Market.MVC
-build_property.ProjectDir = C:\Users\hinau\source\repos\A22-SecuriteApplicative\Securite\A22-SecuritéApplicative-TP2\src\Sec.Market.MVC\
+build_property.ProjectDir = F:\session 5\Sécurité\TP2\SecuriteApps_TP2\src\Sec.Market.MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hinau\source\repos\A22-SecuriteApplicative\Securite\A22-SecuritéApplicative-TP2\src\Sec.Market.MVC
+build_property.MSBuildProjectDirectory = F:\session 5\Sécurité\TP2\SecuriteApps_TP2\src\Sec.Market.MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Home/Index.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Home/Privacy.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Order/Create.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Order/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Order/Index.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Order/_OrderItem.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Order/_OrderItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcX09yZGVySXRlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Product/Create.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Product/Delete.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Product/Edit.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Product/Index.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Product/Liste.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Product/Liste.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Product/_product.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Product/_product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfcHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Reviews/Create.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Reviews/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Reviews/Index.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Reviews/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Shared/Error.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Shared/_LoginPartial.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/User/SignIn.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/User/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/_ViewImports.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/_ViewStart.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hinau/source/repos/A22-SecuriteApplicative/Securite/A22-SecuritéApplicative-TP2/src/Sec.Market.MVC/Views/Shared/_Layout.cshtml]
+[F:/session 5/Sécurité/TP2/SecuriteApps_TP2/src/Sec.Market.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7m0y569pwh
